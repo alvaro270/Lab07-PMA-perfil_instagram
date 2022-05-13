@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "add's line.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
